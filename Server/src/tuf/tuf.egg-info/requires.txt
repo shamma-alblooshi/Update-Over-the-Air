@@ -1,0 +1,6 @@
+iso8601
+six
+
+[tools]
+pycrypto>=2.6.1
+pynacl>=0.2.3
