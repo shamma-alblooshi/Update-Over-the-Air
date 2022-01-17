@@ -7,7 +7,7 @@ $ sudo apt-get install build-essential libssl-dev libffi-dev python-dev python3-
 ```
 To download and install the Update over the air code and its dependencies, run the following:
 ```
-$ git clone 
-$ cd uptane
+$ git clone https://github.com/shamma-alblooshi/Update-Over-the-Air
+$ cd Update-Over-the-Air
 $ pip install -r dev-requirements.txt
 ```
