@@ -1,0 +1,16 @@
+{
+  "repositories": {
+    "imagerepo": {
+      "mirrors": ["http://10.161.5.227:30301"]
+    },
+    "director": {
+      "mirrors": ["http://10.161.5.227:30401"]
+    }
+  },
+  "delegations": [
+    {
+      "paths": ["*"],
+      "repositories": ["director", "imagerepo"]
+    }
+  ]
+}
