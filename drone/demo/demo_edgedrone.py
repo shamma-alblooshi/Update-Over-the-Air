@@ -503,7 +503,7 @@ def update_cycle():
     else:
       print_banner(
           BANNER_UPDATED, color=WHITE+GREEN_BG,
-          text='Installed firmware received from Primary that was fully '
+          text='Installed firmware received from Fogdrone that was fully '
           'validated by the Director and Image Repo. Image: ' +
           repr(image_fname), sound=WON)
 
