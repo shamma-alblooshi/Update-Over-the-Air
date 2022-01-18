@@ -42,7 +42,7 @@ import uptane.encoding.asn1_codec as asn1_codec
 
 from uptane.encoding.asn1_codec import DATATYPE_TIME_ATTESTATION
 from uptane.encoding.asn1_codec import DATATYPE_DRONE_MANIFEST
-from uptane.encoding.asn1_codec import DATATYPE_VEHICLE_MANIFEST
+from uptane.encoding.asn1_codec import DATATYPE_SWARM_MANIFEST
 
 from uptane import GREEN, RED, YELLOW, ENDCOLORS
 
