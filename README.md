@@ -9,5 +9,5 @@ To download and install the Update over the air code and its dependencies, run t
 ```
 $ git clone https://github.com/shamma-alblooshi/Update-Over-the-Air
 $ cd Update-Over-the-Air
-$ pip install -r dev-requirements.txt
+$ pip3 install -r dev-requirements.txt
 ```
