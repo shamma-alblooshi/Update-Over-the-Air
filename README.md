@@ -55,7 +55,7 @@ $ python3
 >>> ds.update_cycle()
 ```
 ## Deliver an Update 
-To deliver an update to the fog drone and edge drone, you'll first need to add the firmware image to the image repository and assign it to the swarm of drones
+To deliver an update to the fog drone and edge drone, you'll first need to add the firmware image to the image repository and assign it to the swarm of drones. <br />
 Execute the following code in the PC :
 ```
 >>> firmware_fname = filepath_in_repo = 'swarm.img'
